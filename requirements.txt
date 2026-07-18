@@ -1,0 +1,19 @@
+# Core
+pandas>=2.2.0
+numpy>=1.26.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Data source
+yfinance>=0.2.40
+
+# Frontend
+streamlit>=1.36.0
+plotly>=5.22.0
+
+# PDF export
+reportlab>=4.2.0
+fpdf2>=2.7.9
+
+# Testing
+pytest>=8.2.0
